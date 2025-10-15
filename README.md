@@ -1,0 +1,1 @@
+https://minecounterapplication.netlify.app/
