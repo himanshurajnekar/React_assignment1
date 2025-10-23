@@ -13,10 +13,9 @@ function Counterfunction(){
     
     return (
             <div>
-                <h2 >Class Component</h2>
+                <h2 >Function Component</h2>
                 <div>{count}</div>
                 {/* Example: Pass a value to decrementConter */}
-                <button onClick={() => decrementConter(2)}>Decrement by 2</button>
                 <p><button style={{ marginRight: "10px" }} onClick={() => decrementConter()}>-</button><button onClick={increamentCounter}>+</button></p>
             </div>
         )
